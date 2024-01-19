@@ -57,24 +57,27 @@ Insights and Visualizations:
 
 ### The project aims to provide actionable insights through visualizations in Microsoft Excel:
 
-Daily Trend for Total Orders:
+1. Daily Trend for Total Orders:
 
 Visualize daily trends in total pizza orders to identify patterns and peak periods.
-Monthly Trend for Total Orders:
+
+2. Monthly Trend for Total Orders:
 
 Analyze monthly variations in total pizza orders to understand sales patterns over time.
-Percentage of Sales by Pizza Category:
+
+3. Percentage of Sales by Pizza Category:
 
 Illustrate the contribution of each pizza category to total sales for product category analysis.
-Percentage of Sales by Pizza Size:
+
+4. Percentage of Sales by Pizza Size:
 
 Display the distribution of sales across different pizza sizes for size-related marketing strategies.
 
-Total Pizzas Sold by Pizza Category:
+5. Total Pizzas Sold by Pizza Category:
 
 Provide a breakdown of total pizzas sold by each pizza category for inventory management.
 
-Top 5 Best Sellers and Bottom 5 Best Sellers:
+6. Top 5 Best Sellers and Bottom 5 Best Sellers:
 
 Identify the top and bottom performers based on revenue, total quantity sold, and total number of orders.
 
