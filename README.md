@@ -1,4 +1,4 @@
-# Pizza Sales Analysis 
+# Pizza Sales Analysis using MS Excel
 
 ## Project Overview
 
