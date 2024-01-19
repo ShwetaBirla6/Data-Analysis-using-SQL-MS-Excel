@@ -2,12 +2,30 @@
 
 ## Problem Statement:
 
-### KPIs Requirement:
-
 Analyzed key indicators for Pizza Sales data to gain insights into the business performance. Specifically, calculated the following metrics:
 
-1. Total Revenue: The sum of the total price of all pizza orders
+## Steps of Project
 
-2. Average Order Value: The average amount spent per order, calculated by dividing the total revenue by the total number of orders.
+Impoting Data by SQL Server Management.
+Writing Queries for Measures and Insights.
+Connecting Power bi to SQL DB.
+Data Cleaning by Power Query.
+Designing Dashboard.
 
-3. Total Pizzas sold
+## KPIs Measures:
+
+Total Revenue.
+Average Order Value.
+Total Pizzas Sold.
+Total Orders.
+Average Pizzas Per Order.
+Insights
+
+## Daily Trend for Total Orders.
+
+Monthly Trend for Total Orders.
+Percentage of Sales by Pizza Category.
+Percentage of Sales by Pizza Size.
+Total Pizzas Sold by Pizza Category.
+Top 5 Best Sellers by Revenue, Total Quantity and Total Orders.
+Bottom 5 Best Sellers by Revenue, Total Quantity and Total Orders.
